@@ -51,7 +51,7 @@ PPO 기반 강화학습 실험. 멜 스펙트로그램 전처리, 노이즈 제�
 `JavaScript` · `HTML` · `CSS`
 
 ### 🏫 [skku_notice_app](https://github.com/Em3erstar/skku_notice_app)
-성균관대학교 공지사항을 **키워드로 검색**해 주는 Android 앱. 노트북 기반 초기 버전은 [SKKU_Notice_check](https://github.com/Em3erstar/SKKU_Notice_check)에 있습니다.
+대학 공지사항을 **키워드로 검색**해 주는 Android 앱. 노트북 기반 초기 버전은 [SKKU_Notice_check](https://github.com/Em3erstar/SKKU_Notice_check)에 있습니다.
 `Java` · `Gradle`
 
 ---
