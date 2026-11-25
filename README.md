@@ -29,7 +29,7 @@
 ## ⭐ 대표 프로젝트
 
 ### 🎾 [CourtBird](https://github.com/Em3erstar/CourtBird)
-네트 스포츠 경기 영상을 **탑뷰 코트 다이어그램**으로 변환하는 프로젝트.
+네트 스포츠 경기 영상을 입력으로 받아, 코트를 **탑뷰 다이어그램**으로 재구성하는 프로젝트. 카메라 시점의 영상을 위에서 내려다본 평면 도면으로 바꿔 경기 흐름을 분석하기 쉽게 만드는 것이 목표입니다.
 `Python` · `Computer Vision`
 
 ### 🦾 [robot_action_latent](https://github.com/Em3erstar/robot_action_latent)
@@ -38,16 +38,16 @@
 <!-- TODO: 목표(어떤 로봇/태스크인지)와 결과를 한두 문장으로 추가해 주세요 -->
 
 ### 🎙️ [FrequencySeparationCNN-KWS](https://github.com/Em3erstar/FrequencySeparationCNN-KWS)
-음성 명령 인식(Speech Command Recognition)을 위한 **Frequency Separation CNN**. 어텐션 기반 음성 명령 인식 연구를 바탕으로 구현했고, 학습된 모델과 실험 결과를 담았습니다.
+음성 명령 인식(Speech Command Recognition)을 위한 **Frequency Separation CNN**. 어텐션 기반 음성 명령 인식 연구를 바탕으로 구현했고, 기본 CNN·FSCNN·FS-TCResNet 등 여러 모델의 학습 결과와 비교 실험을 담았습니다.
 `Python` · `Jupyter Notebook` · `MIT`
 
 ### ⚔️ [adv_rl_proj](https://github.com/Em3erstar/adv_rl_proj)
-PPO 기반 강화학습 실험. 멜 스펙트로그램 전처리와 노이즈 제거(denoise) 모델 코드를 포함합니다.
+PPO 기반 강화학습 실험. 멜 스펙트로그램 전처리, 노이즈 제거(denoise) 모델, 필터·노이즈 제거를 결합한 PPO 학습 스크립트와 결과 집계 코드로 구성됩니다.
 `Python`
 <!-- TODO: 수업/연구 맥락과 문제 설정(적대적 공격 대상 등)을 확인해 보강해 주세요 -->
 
-### 📅 [TodoMate (Stress Calendar)](https://github.com/Em3erstar/TodoMate) · [🔗 데모](https://keyhundred.github.io/TodoMate/)
-과제마다 **스트레스 정도**를 매겨, 일정의 강도와 우선순위를 한눈에 보게 해 주는 캘린더 웹 앱. 날짜별 과제 관리와 공부 시간 타이머를 제공합니다. (3인 팀 프로젝트)
+### 📅 [TodoMate (Stress Calendar)](https://github.com/Em3erstar/TodoMate)
+일반적인 투두 캘린더에서 벗어나, 과제마다 **스트레스 정도**를 매겨 일정의 강도와 우선순위를 한눈에 파악하게 해 주는 캘린더 웹 앱. 플래너처럼 날짜별로 과제를 관리하고, 스트레스 수준을 시각적으로 표시하며, 공부 시간을 재는 타이머도 제공합니다. (3인 팀 프로젝트, 2021)
 `JavaScript` · `HTML` · `CSS`
 
 ### 🏫 [skku_notice_app](https://github.com/Em3erstar/skku_notice_app)
@@ -72,4 +72,3 @@ PPO 기반 강화학습 실험. 멜 스펙트로그램 전처리와 노이즈 �
 
 - 📧 Email: dls0901@naver.com · dlskeyhund@gmail.com
 <!-- TODO: 블로그/사이트가 있다면 주소를 추가해 주세요 -->
-- 🌐 TodoMate 데모: https://keyhundred.github.io/TodoMate/
